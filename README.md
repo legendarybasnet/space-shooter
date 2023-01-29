@@ -1,6 +1,8 @@
 # space-shooter
 Space shooter game
 
+Link: https://legendarybasnet.github.io/space-shooter/
+
 ## Goal
 First person to hit the opposing player 10 times wins the game.
 
