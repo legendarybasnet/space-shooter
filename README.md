@@ -10,3 +10,9 @@ Use WASD to move and LCTRL to shoot.
 
 ### Right player
 Use Up, Down, Left, Right arrow keys to move and RCTRL to shoot.
+
+
+## Screenshots
+!.[Title screen]. (https://raw.githubusercontent.com/legendarybasnet/space-shooter/main/start.PNG)
+
+!.[Play screen]. (https://raw.githubusercontent.com/legendarybasnet/space-shooter/main/start.PNG)
