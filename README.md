@@ -13,6 +13,5 @@ Use Up, Down, Left, Right arrow keys to move and RCTRL to shoot.
 
 
 ## Screenshots
-!.[Title screen]. (https://raw.githubusercontent.com/legendarybasnet/space-shooter/main/start.PNG)
+![Title screen](https://raw.githubusercontent.com/legendarybasnet/space-shooter/main/start.PNG)
 
-!.[Play screen]. (https://raw.githubusercontent.com/legendarybasnet/space-shooter/main/start.PNG)
